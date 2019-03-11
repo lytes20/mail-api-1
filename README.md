@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/lytes20/mail-api-1.svg?branch=develop)](https://travis-ci.org/lytes20/mail-api-1)
+[![Coverage Status](https://coveralls.io/repos/github/lytes20/mail-api-1/badge.svg?branch=develop)](https://coveralls.io/github/lytes20/mail-api-1?branch=develop)
 # mail-api-1
 
 An api to power a web app that can help people exchange messages/information over the internet. This is the first version of this api, and I am not using a database.
