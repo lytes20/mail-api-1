@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/lytes20/mail-api-1#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4"
   },
   "devDependencies": {
